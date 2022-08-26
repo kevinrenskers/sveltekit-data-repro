@@ -3,6 +3,7 @@
   export let data: PageData;
 
   console.log("/route/+page.svelte", data.foo);
+  console.log("/route/+page.svelte", data.xyz);
 </script>
 
-Hello to the item
+Hello route
