@@ -6,4 +6,4 @@
   console.log("/route/subroute/+page.svelte", data.xyz);
 </script>
 
-Hello route
+Hello subroute
